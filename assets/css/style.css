@@ -1,0 +1,19 @@
+body {
+    font-size: 18px;
+    color: black;
+}
+
+.name {
+    font-size: 45px;
+    color: darkgreen;
+    background: lightslategray;
+    width: 25%;
+    text-align: left;
+    font-weight: 666;
+    font-family: arial;
+    padding: 20px;
+}
+
+.headerlinks {
+    
+}
